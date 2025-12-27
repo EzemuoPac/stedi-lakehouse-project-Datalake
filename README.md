@@ -165,8 +165,6 @@ SELECT * FROM machine_learning_curated LIMIT 10;
 ## Results
 Successfully created a privacy-compliant data lakehouse with 43,681 curated records ready for machine learning model training. All data comes from verified customers who consented to research participation.
 
-## Author
-[Paschal Okeke]
 
 ## Date
 December 2025
